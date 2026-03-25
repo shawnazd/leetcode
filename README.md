@@ -1,48 +1,52 @@
-# 🧩 LeetCode Solutions
+# LeetCode Solutions
 
-A personal collection of LeetCode problem solutions written in **Python**, built to track progress and sharpen problem-solving skills.
-
----
-
-## 📌 About
-
-- 🐍 All solutions written in **Python**
-- 📊 Covers **Easy**, **Medium**, and **Hard** problems
-- 📝 Each file contains a clean, readable, and runnable solution
+Personal collection of LeetCode problems solved in Python. Built to practice consistently and track improvement over time.
 
 ---
 
-## 🚀 Getting Started
+## What's Here
 
-**Clone the repo:**
+- Solutions in Python only
+- Problems across Easy, Medium, and Hard difficulty
+- Each file is self-contained and runnable
+
+---
+
+## Structure
+
+Problems are organized by topic:
+
+- Arrays & Strings
+- Two Pointers & Sliding Window
+- Hashing
+- Stack & Queue
+- Binary Search
+- Linked Lists
+- Trees & Graphs
+- Recursion & Backtracking
+- Dynamic Programming
+- Greedy Algorithms
+
+---
+
+## Progress
+
+| Difficulty | Solved |
+|---|---|
+| Easy | — |
+| Medium | — |
+| Hard | — |
+
+---
+
+## Run a Solution
 
 ```bash
 git clone https://github.com/shawnazd/leetcode.git
 cd leetcode
-```
-
-**Run any solution:**
-
-```bash
 python filename.py
 ```
 
 ---
 
-## 📈 Progress
-
-| Difficulty | Solved |
-| ---------- | ------ |
-| 🟢 Easy    | —      |
-| 🟡 Medium  | —      |
-| 🔴 Hard    | —      |
-
----
-
-## 🤝 Contributing
-
-Personal repo, but suggestions and alternative approaches are always welcome!
-
----
-
-_Happy coding! 🚀_
+> Consistency over speed. Solved one problem at a time.
